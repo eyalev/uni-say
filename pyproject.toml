@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "uni-say"
-version = "0.1.11"
+version = "0.1.12"
 description = ""
 authors = ["Eyal Levin <eyalev@gmail.com>"]
 readme = "README.md"
@@ -9,7 +9,7 @@ readme = "README.md"
 uni-say = "uni_say.cli:cli"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.6"
 click = "^8.0.3"
 
 [tool.poetry.dev-dependencies]
