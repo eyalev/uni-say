@@ -19,7 +19,6 @@ setup_kwargs = {
     "name": "uni-say",
     "version": "0.1.4",
     "description": "",
-    "long_description": None,
     "author": "Eyal Levin",
     "author_email": "eyalev@gmail.com",
     "maintainer": None,
