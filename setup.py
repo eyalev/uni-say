@@ -30,6 +30,8 @@ setup_kwargs = {
     "install_requires": install_requires,
     "entry_points": entry_points,
     "python_requires": ">=3.10,<4.0",
+    "long_description": "long_description",
+    "long_description_content_type": "text/markdown",
 }
 
 
